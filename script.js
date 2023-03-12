@@ -14,5 +14,6 @@ import * as allExport from './module.js';
 console.log(allExport.quantity);
 
 const arr = [4, 3, 5, 6, 78, 90];
-console.log(arr.at(-1));
+const arr2 = 'gbenga';
+console.log(arr.slice(1));
 */
