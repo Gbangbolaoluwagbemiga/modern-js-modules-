@@ -1,4 +1,3 @@
-/*
 // Named export
 // import { understandingModule } from './module.js';
 // understandingModule();
@@ -16,4 +15,3 @@ console.log(allExport.quantity);
 const arr = [4, 3, 5, 6, 78, 90];
 const arr2 = 'gbenga';
 console.log(arr.slice(1));
-*/
