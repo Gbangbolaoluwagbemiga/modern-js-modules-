@@ -1,11 +1,11 @@
-4245
+4251
 185C:\Users\Ouwagbenga\Desktop\Javascript\JS\The Complete JavaScript Course 2021 From Zero to Expert!\complete codes\17-Modern-JS-Modules-Tooling\starter\node_modules\msgpackr\package.json133232097514151780 0
 184C:\Users\Ouwagbenga\Desktop\Javascript\JS\The Complete JavaScript Course 2021 From Zero to Expert!\complete codes\17-Modern-JS-Modules-Tooling\starter\node_modules\type-fest\index.d.ts133232097509564368 0
 198C:\Users\Ouwagbenga\Desktop\Javascript\JS\The Complete JavaScript Course 2021 From Zero to Expert!\complete codes\17-Modern-JS-Modules-Tooling\starter\node_modules\@parcel\packager-js\lib\helpers.js133232097506182804 0
 231C:\Users\Ouwagbenga\Desktop\Javascript\JS\The Complete JavaScript Course 2021 From Zero to Expert!\complete codes\17-Modern-JS-Modules-Tooling\starter\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages133232097559809671 0
 173C:\Users\Ouwagbenga\Desktop\Javascript\JS\The Complete JavaScript Course 2021 From Zero to Expert!\complete codes\17-Modern-JS-Modules-Tooling\starter\node_modules\.bin\svgo133232097559759699 0
 193C:\Users\Ouwagbenga\Desktop\Javascript\JS\The Complete JavaScript Course 2021 From Zero to Expert!\complete codes\17-Modern-JS-Modules-Tooling\starter\node_modules\csso\lib\restructure\index.js133232097519143434 0
-163C:\Users\Ouwagbenga\Desktop\Javascript\JS\The Complete JavaScript Course 2021 From Zero to Expert!\complete codes\17-Modern-JS-Modules-Tooling\starter\package.json133232111871696806 0
+163C:\Users\Ouwagbenga\Desktop\Javascript\JS\The Complete JavaScript Course 2021 From Zero to Expert!\complete codes\17-Modern-JS-Modules-Tooling\starter\package.json133232286305678141 0
 180C:\Users\Ouwagbenga\Desktop\Javascript\JS\The Complete JavaScript Course 2021 From Zero to Expert!\complete codes\17-Modern-JS-Modules-Tooling\starter\node_modules\is-glob\index.js133232097490732623 0
 204C:\Users\Ouwagbenga\Desktop\Javascript\JS\The Complete JavaScript Course 2021 From Zero to Expert!\complete codes\17-Modern-JS-Modules-Tooling\starter\node_modules\@parcel\transformer-postcss\package.json133232097504295357 0
 196C:\Users\Ouwagbenga\Desktop\Javascript\JS\The Complete JavaScript Course 2021 From Zero to Expert!\complete codes\17-Modern-JS-Modules-Tooling\starter\node_modules\css-tree\lib\convertor\create.js133232097512836820 0
@@ -29,11 +29,11 @@
 200C:\Users\Ouwagbenga\Desktop\Javascript\JS\The Complete JavaScript Course 2021 From Zero to Expert!\complete codes\17-Modern-JS-Modules-Tooling\starter\node_modules\@lmdb\lmdb-win32-x64\node.abi83.node133232097512588100 0
 193C:\Users\Ouwagbenga\Desktop\Javascript\JS\The Complete JavaScript Course 2021 From Zero to Expert!\complete codes\17-Modern-JS-Modules-Tooling\starter\node_modules\css-select\lib\index.d.ts.map133232097512108530 0
 198C:\Users\Ouwagbenga\Desktop\Javascript\JS\The Complete JavaScript Course 2021 From Zero to Expert!\complete codes\17-Modern-JS-Modules-Tooling\starter\node_modules\@parcel\graph\src\shared-buffer.js133232097509664304 0
-160C:\Users\Ouwagbenga\Desktop\Javascript\JS\The Complete JavaScript Course 2021 From Zero to Expert!\complete codes\17-Modern-JS-Modules-Tooling\starter\script.js133231870192699444 0
-161C:\Users\Ouwagbenga\Desktop\Javascript\JS\The Complete JavaScript Course 2021 From Zero to Expert!\complete codes\17-Modern-JS-Modules-Tooling\starter\.gitignore133232111348028203 0
+160C:\Users\Ouwagbenga\Desktop\Javascript\JS\The Complete JavaScript Course 2021 From Zero to Expert!\complete codes\17-Modern-JS-Modules-Tooling\starter\script.js133232289167375565 0
+161C:\Users\Ouwagbenga\Desktop\Javascript\JS\The Complete JavaScript Course 2021 From Zero to Expert!\complete codes\17-Modern-JS-Modules-Tooling\starter\.gitignore133232126276524745 0
 193C:\Users\Ouwagbenga\Desktop\Javascript\JS\The Complete JavaScript Course 2021 From Zero to Expert!\complete codes\17-Modern-JS-Modules-Tooling\starter\node_modules\json-parse-even-better-errors133232097495502873 1
 159C:\Users\Ouwagbenga\Desktop\Javascript\JS\The Complete JavaScript Course 2021 From Zero to Expert!\complete codes\17-Modern-JS-Modules-Tooling\starter\clean.js132810493980000000 0
-155C:\Users\Ouwagbenga\Desktop\Javascript\JS\The Complete JavaScript Course 2021 From Zero to Expert!\complete codes\17-Modern-JS-Modules-Tooling\starter\dist133232109569992372 1
+155C:\Users\Ouwagbenga\Desktop\Javascript\JS\The Complete JavaScript Course 2021 From Zero to Expert!\complete codes\17-Modern-JS-Modules-Tooling\starter\dist133232289402427456 1
 203C:\Users\Ouwagbenga\Desktop\Javascript\JS\The Complete JavaScript Course 2021 From Zero to Expert!\complete codes\17-Modern-JS-Modules-Tooling\starter\node_modules\@parcel\transformer-babel\src\config.js133232097502806406 0
 200C:\Users\Ouwagbenga\Desktop\Javascript\JS\The Complete JavaScript Course 2021 From Zero to Expert!\complete codes\17-Modern-JS-Modules-Tooling\starter\node_modules\cosmiconfig\dist\getDirectory.js.map133232097512238304 0
 196C:\Users\Ouwagbenga\Desktop\Javascript\JS\The Complete JavaScript Course 2021 From Zero to Expert!\complete codes\17-Modern-JS-Modules-Tooling\starter\node_modules\entities\lib\decode_codepoint.js133232097491232261 0
@@ -57,8 +57,8 @@
 201C:\Users\Ouwagbenga\Desktop\Javascript\JS\The Complete JavaScript Course 2021 From Zero to Expert!\complete codes\17-Modern-JS-Modules-Tooling\starter\node_modules\caniuse-lite\dist\unpacker\feature.js133232097539634704 0
 193C:\Users\Ouwagbenga\Desktop\Javascript\JS\The Complete JavaScript Course 2021 From Zero to Expert!\complete codes\17-Modern-JS-Modules-Tooling\starter\node_modules\source-map\dist\source-map.js133232097513726329 0
 209C:\Users\Ouwagbenga\Desktop\Javascript\JS\The Complete JavaScript Course 2021 From Zero to Expert!\complete codes\17-Modern-JS-Modules-Tooling\starter\node_modules\@swc\helpers\src\_class_private_field_set.mjs133232097530995660 0
-161C:\Users\Ouwagbenga\Desktop\Javascript\JS\The Complete JavaScript Course 2021 From Zero to Expert!\complete codes\17-Modern-JS-Modules-Tooling\starter\index.html133232108614851780 0
-160C:\Users\Ouwagbenga\Desktop\Javascript\JS\The Complete JavaScript Course 2021 From Zero to Expert!\complete codes\17-Modern-JS-Modules-Tooling\starter\module.js133230413945049936 0
+161C:\Users\Ouwagbenga\Desktop\Javascript\JS\The Complete JavaScript Course 2021 From Zero to Expert!\complete codes\17-Modern-JS-Modules-Tooling\starter\index.html133232135035564311 0
+160C:\Users\Ouwagbenga\Desktop\Javascript\JS\The Complete JavaScript Course 2021 From Zero to Expert!\complete codes\17-Modern-JS-Modules-Tooling\starter\module.js133232135339117507 0
 218C:\Users\Ouwagbenga\Desktop\Javascript\JS\The Complete JavaScript Course 2021 From Zero to Expert!\complete codes\17-Modern-JS-Modules-Tooling\starter\node_modules\@parcel\runtime-browser-hmr\src\loaders\hmr-runtime.js133232097495422917 0
 182C:\Users\Ouwagbenga\Desktop\Javascript\JS\The Complete JavaScript Course 2021 From Zero to Expert!\complete codes\17-Modern-JS-Modules-Tooling\starter\node_modules\node-releases\data133232097495602812 1
 178C:\Users\Ouwagbenga\Desktop\Javascript\JS\The Complete JavaScript Course 2021 From Zero to Expert!\complete codes\17-Modern-JS-Modules-Tooling\starter\node_modules\semver\LICENSE133232097489357949 0
@@ -881,6 +881,7 @@
 183C:\Users\Ouwagbenga\Desktop\Javascript\JS\The Complete JavaScript Course 2021 From Zero to Expert!\complete codes\17-Modern-JS-Modules-Tooling\starter\node_modules\type-fest\readme.md133232097493144041 0
 180C:\Users\Ouwagbenga\Desktop\Javascript\JS\The Complete JavaScript Course 2021 From Zero to Expert!\complete codes\17-Modern-JS-Modules-Tooling\starter\node_modules\lmdb\binding.gyp133232097529385604 0
 180C:\Users\Ouwagbenga\Desktop\Javascript\JS\The Complete JavaScript Course 2021 From Zero to Expert!\complete codes\17-Modern-JS-Modules-Tooling\starter\node_modules\type-fest\source133232097520441963 1
+173C:\Users\Ouwagbenga\Desktop\Javascript\JS\The Complete JavaScript Course 2021 From Zero to Expert!\complete codes\17-Modern-JS-Modules-Tooling\starter\dist\index.a66c3ffc.js133232293600593096 0
 181C:\Users\Ouwagbenga\Desktop\Javascript\JS\The Complete JavaScript Course 2021 From Zero to Expert!\complete codes\17-Modern-JS-Modules-Tooling\starter\node_modules\@parcel\fs-search133232097521984883 1
 194C:\Users\Ouwagbenga\Desktop\Javascript\JS\The Complete JavaScript Course 2021 From Zero to Expert!\complete codes\17-Modern-JS-Modules-Tooling\starter\node_modules\type-fest\ts41\camel-case.d.ts133232097501739045 0
 209C:\Users\Ouwagbenga\Desktop\Javascript\JS\The Complete JavaScript Course 2021 From Zero to Expert!\complete codes\17-Modern-JS-Modules-Tooling\starter\node_modules\caniuse-lite\data\features\mutation-events.js133232097547352858 0
@@ -2469,6 +2470,7 @@
 208C:\Users\Ouwagbenga\Desktop\Javascript\JS\The Complete JavaScript Course 2021 From Zero to Expert!\complete codes\17-Modern-JS-Modules-Tooling\starter\node_modules\caniuse-lite\data\features\css-gencontent.js133232097534099233 0
 191C:\Users\Ouwagbenga\Desktop\Javascript\JS\The Complete JavaScript Course 2021 From Zero to Expert!\complete codes\17-Modern-JS-Modules-Tooling\starter\node_modules\cosmiconfig\dist\index.d.ts133232097519453266 0
 190C:\Users\Ouwagbenga\Desktop\Javascript\JS\The Complete JavaScript Course 2021 From Zero to Expert!\complete codes\17-Modern-JS-Modules-Tooling\starter\node_modules\css-tree\lib\syntax\pseudo133232097530835755 1
+177C:\Users\Ouwagbenga\Desktop\Javascript\JS\The Complete JavaScript Course 2021 From Zero to Expert!\complete codes\17-Modern-JS-Modules-Tooling\starter\dist\index.863a86cd.js.map133232150687279597 0
 206C:\Users\Ouwagbenga\Desktop\Javascript\JS\The Complete JavaScript Course 2021 From Zero to Expert!\complete codes\17-Modern-JS-Modules-Tooling\starter\node_modules\caniuse-lite\data\features\css-any-link.js133232097532130944 0
 198C:\Users\Ouwagbenga\Desktop\Javascript\JS\The Complete JavaScript Course 2021 From Zero to Expert!\complete codes\17-Modern-JS-Modules-Tooling\starter\node_modules\@parcel\core\lib\resolveOptions.js133232097532470746 0
 189C:\Users\Ouwagbenga\Desktop\Javascript\JS\The Complete JavaScript Course 2021 From Zero to Expert!\complete codes\17-Modern-JS-Modules-Tooling\starter\node_modules\css-tree\lib\syntax\scope133232097532160926 1
@@ -3327,6 +3329,7 @@
 192C:\Users\Ouwagbenga\Desktop\Javascript\JS\The Complete JavaScript Course 2021 From Zero to Expert!\complete codes\17-Modern-JS-Modules-Tooling\starter\node_modules\@parcel\transformer-svg\test133232097499231629 1
 185C:\Users\Ouwagbenga\Desktop\Javascript\JS\The Complete JavaScript Course 2021 From Zero to Expert!\complete codes\17-Modern-JS-Modules-Tooling\starter\node_modules\acorn\dist\acorn.d.ts133232097508836748 0
 193C:\Users\Ouwagbenga\Desktop\Javascript\JS\The Complete JavaScript Course 2021 From Zero to Expert!\complete codes\17-Modern-JS-Modules-Tooling\starter\node_modules\@parcel\core\lib\constants.js133232097524487431 0
+177C:\Users\Ouwagbenga\Desktop\Javascript\JS\The Complete JavaScript Course 2021 From Zero to Expert!\complete codes\17-Modern-JS-Modules-Tooling\starter\dist\index.a66c3ffc.js.map133232289721103020 0
 183C:\Users\Ouwagbenga\Desktop\Javascript\JS\The Complete JavaScript Course 2021 From Zero to Expert!\complete codes\17-Modern-JS-Modules-Tooling\starter\node_modules\acorn\dist\acorn.js133232097499301586 0
 184C:\Users\Ouwagbenga\Desktop\Javascript\JS\The Complete JavaScript Course 2021 From Zero to Expert!\complete codes\17-Modern-JS-Modules-Tooling\starter\node_modules\acorn\dist\acorn.mjs133232097508064208 0
 189C:\Users\Ouwagbenga\Desktop\Javascript\JS\The Complete JavaScript Course 2021 From Zero to Expert!\complete codes\17-Modern-JS-Modules-Tooling\starter\node_modules\acorn\dist\acorn.mjs.d.ts133232097509364484 0
@@ -4241,6 +4244,9 @@
 179C:\Users\Ouwagbenga\Desktop\Javascript\JS\The Complete JavaScript Course 2021 From Zero to Expert!\complete codes\17-Modern-JS-Modules-Tooling\starter\node_modules\.bin\parcel.ps1133232097559749708 0
 177C:\Users\Ouwagbenga\Desktop\Javascript\JS\The Complete JavaScript Course 2021 From Zero to Expert!\complete codes\17-Modern-JS-Modules-Tooling\starter\node_modules\.bin\svgo.cmd133232097559759699 0
 177C:\Users\Ouwagbenga\Desktop\Javascript\JS\The Complete JavaScript Course 2021 From Zero to Expert!\complete codes\17-Modern-JS-Modules-Tooling\starter\node_modules\.bin\svgo.ps1133232097559759699 0
-173C:\Users\Ouwagbenga\Desktop\Javascript\JS\The Complete JavaScript Course 2021 From Zero to Expert!\complete codes\17-Modern-JS-Modules-Tooling\starter\dist\index.8cfc62b9.js133232109569832477 0
-177C:\Users\Ouwagbenga\Desktop\Javascript\JS\The Complete JavaScript Course 2021 From Zero to Expert!\complete codes\17-Modern-JS-Modules-Tooling\starter\dist\index.8cfc62b9.js.map133232109569972415 0
-166C:\Users\Ouwagbenga\Desktop\Javascript\JS\The Complete JavaScript Course 2021 From Zero to Expert!\complete codes\17-Modern-JS-Modules-Tooling\starter\dist\index.html133232108617385960 0
+173C:\Users\Ouwagbenga\Desktop\Javascript\JS\The Complete JavaScript Course 2021 From Zero to Expert!\complete codes\17-Modern-JS-Modules-Tooling\starter\dist\index.863a86cd.js133232148918282202 0
+173C:\Users\Ouwagbenga\Desktop\Javascript\JS\The Complete JavaScript Course 2021 From Zero to Expert!\complete codes\17-Modern-JS-Modules-Tooling\starter\dist\index.8cfc62b9.js133232289171511759 0
+177C:\Users\Ouwagbenga\Desktop\Javascript\JS\The Complete JavaScript Course 2021 From Zero to Expert!\complete codes\17-Modern-JS-Modules-Tooling\starter\dist\index.8cfc62b9.js.map133232289171511759 0
+173C:\Users\Ouwagbenga\Desktop\Javascript\JS\The Complete JavaScript Course 2021 From Zero to Expert!\complete codes\17-Modern-JS-Modules-Tooling\starter\dist\index.f1c8b07e.js133232286643405033 0
+177C:\Users\Ouwagbenga\Desktop\Javascript\JS\The Complete JavaScript Course 2021 From Zero to Expert!\complete codes\17-Modern-JS-Modules-Tooling\starter\dist\index.f1c8b07e.js.map133232286369652245 0
+166C:\Users\Ouwagbenga\Desktop\Javascript\JS\The Complete JavaScript Course 2021 From Zero to Expert!\complete codes\17-Modern-JS-Modules-Tooling\starter\dist\index.html133232289464257521 0

@@ -1,0 +1,17 @@
+{
+  "mappings": "AAUAA,QAAQC,IAAI,oBCRVD,QAAQC,IAAI,kBDadD,QAAQC,ICVS",
+  "sources": [
+    "script.js",
+    "module.js"
+  ],
+  "sourcesContent": [
+    "// const arr = [4, 3, 5, 6, 78, 90];\r\n// const arr2 = 'gbenga';\r\n// console.log(arr.slice(1));\r\n// Named export\r\n// import { understandingModule } from './module.js';\r\n// understandingModule();\r\n// console.log(`i am a normal js`);\r\n\r\n// Default export\r\nimport all from './module.js';\r\nconsole.log(`i am a normal js`);\r\nall();\r\n\r\n// importing all export\r\nimport * as allExport from './module.js';\r\nconsole.log(allExport.quantity);\r\n\r\nif (module.hot) {\r\n  module.hot.accept();\r\n}\r\n",
+    "// console.log(`i am a module`);\r\nexport default function () {\r\n  console.log(`i am a modules`);\r\n}\r\nconst amount = 23;\r\nconst quantity = 45;\r\n\r\nexport {amount, quantity};\r\n// export { understandingModule };\r\n"
+  ],
+  "names": [
+    "console",
+    "log"
+  ],
+  "version": 3,
+  "file": "index.863a86cd.js.map"
+}

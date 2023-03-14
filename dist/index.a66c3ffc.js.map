@@ -1,0 +1,23 @@
+{
+  "mappings": "AAIA,MCJMA,EAAM,CAAC,EAAG,EAAG,EAAG,EAAG,GAAI,IACd,MACbC,QAAQC,IAAI,MACZ,MAAMC,EAAcH,EAAII,QAAOC,GAAMA,GAAM,KAC3CJ,QAAQC,IAAIC,EAAA,EAEdG,GAUAL,QAAQC,IAAI,oBDdVD,QAAQC,IAAI,kBCiBdD,QAAQC,IADG,KACIK,eAIfN,QAAQC,IDlBS",
+  "sources": [
+    "module.js",
+    "script.js"
+  ],
+  "sourcesContent": [
+    "// console.log(`i am a module`);\r\nexport default function () {\r\n  console.log(`i am a modules`);\r\n}\r\nconst amount = 23;\r\nconst quantity = 45;\r\n\r\nexport {amount, quantity};\r\n// export { understandingModule };\r\n",
+    "const arr = [4, 3, 5, 6, 78, 90];\r\nconst search = () => {\r\n  console.log('hi');\r\n  const LargeNumber = arr.filter(lg => lg >= 50);\r\n  console.log(LargeNumber);\r\n};\r\nsearch();\r\n// const arr2 = 'gbenga';\r\n// console.log(arr.slice(1));\r\n// Named export\r\n// import { understandingModule } from './module.js';\r\n// understandingModule();\r\n// console.log(`i am a normal js`);\r\n\r\n// Default export\r\nimport all from './module.js';\r\nconsole.log(`i am a normal js`);\r\nall();\r\nconst hi = 'hi';\r\nconsole.log(hi.toUpperCase());\r\n\r\n// importing all export\r\nimport * as allExport from './module.js';\r\nconsole.log(allExport.quantity);\r\n\r\nif (module.hot) {\r\n  module.hot.accept();\r\n}\r\n"
+  ],
+  "names": [
+    "$c1ce9d969bfa6909$var$arr",
+    "console",
+    "log",
+    "LargeNumber",
+    "filter",
+    "lg",
+    "$c1ce9d969bfa6909$var$search",
+    "toUpperCase"
+  ],
+  "version": 3,
+  "file": "index.a66c3ffc.js.map"
+}
