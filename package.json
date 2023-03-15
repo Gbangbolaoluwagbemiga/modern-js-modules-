@@ -21,6 +21,7 @@
   },
   "dependencies": {
     "core-js": "^3.29.1",
-    "regenerator-runtime": "^0.13.11"
+    "regenerator-runtime": "^0.13.11",
+    "typed.js": "^2.0.132"
   }
 }

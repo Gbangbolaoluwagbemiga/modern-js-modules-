@@ -1,3 +1,4 @@
+/*
 const arr = [4, 3, 5, 6, 78, 90];
 const search = () => {
   console.log('hi');
@@ -29,3 +30,14 @@ if (module.hot) {
 
 import 'core-js/stable/array/filter';
 import 'regenerator-runtime/runtime';
+// console.log('Typed');
+// import Typed from './node_modules/typed.js';
+
+const typed = new Typed('.typing', {
+  strings: ['gbenga', 'a frontend developer'],
+  typeSpeed: 50,
+  backSpeed: 50,
+  loop: true,
+});
+
+*/
